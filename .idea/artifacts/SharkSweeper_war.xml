@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SharkSweeper:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SharkSweeper</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SharkSweeper-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SharkSweeper:war exploded" />
+    </root>
+  </artifact>
+</component>
