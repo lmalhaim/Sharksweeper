@@ -6,4 +6,4 @@ Welcome to Sharksweeper!
 3. Build project `mvn clean package`
 4. run project using `mvn exec:java`
 
-**Note: If you want to see how the game works, there is a demo video in the src code **
+**Note: If you want to see how the game works, there is a demo video in the src code**
